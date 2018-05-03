@@ -7,14 +7,15 @@ This note will grow over time.  For now, it's a random collection of thoughts an
 * Jason Trost's list http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 * Jon Zeolla's TRISS links https://github.com/JonZeolla/Presentations/blob/master/2017-10-20_TRISS/README.md
 
-### Events:
-* CAMLIS
+### Conferences and events:
+* [CAMLIS](https://www.camlis.org/)
 * BsidesLV GroundTruth track
 * https://www.cert.org/flocon/
 * http://www-bcf.usc.edu/~aruneshs/AISec2015/Program.html
+* [DEFCON AI Village](https://aivillage.org/)
 
-### People:
-* Alex. 
+### Communities and people:
+* Alex Pinto. Everyone in this community knows Alex.
 * MLSec project https://www.mlsecproject.org/
 * http://www.skrasser.com/publications/#krasser2015val
 
@@ -23,6 +24,28 @@ This note will grow over time.  For now, it's a random collection of thoughts an
 * http://www.dvwa.co.uk/
 * https://drive.google.com/file/d/0B_IN6RzP69b2TkNrYVdOMnQ4LVE/view?usp=sharing
 * https://github.com/konstantinberlin/malware-windows-audit-log-detection
+
+
+### Social media to follow:
+
+Groups:
+* [CAMLIS](https://twitter.com/camlisorg)
+* [MLSec](https://twitter.com/MLSecProject)
+* [AI Village at Defcon](https://twitter.com/aivillage_dc)
+
+People:
+* [Hyrum Anderson, EndGame](https://twitter.com/drhyrum)
+* [Rich Seymour, EndGame](https://twitter.com/rseymour)
+* [Philip Tully, ZeroFox](https://twitter.com/phtully)
+* [Melissa Kilby](https://twitter.com/CyberMatrixAI)
+* [Rich Harang, Sophos](https://twitter.com/rharang)
+* [Keegan Hines, CapitalOne](https://twitter.com/keeghin)
+* [John Seymour](https://twitter.com/_delta_zero)
+* [Sven Krasser, CrowdStrike](https://twitter.com/SvenKrasser)
+* [Joshua Saxe](https://twitter.com/joshua_saxe)
+* [Phil Roth](https://twitter.com/mrphilroth)
+* [Alex Pinto, Niddel](https://twitter.com/alexcpsec)
+
 
 ## Not core
 
