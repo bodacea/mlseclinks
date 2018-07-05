@@ -11,20 +11,23 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Lists](#lists)
 
 - [People](#people)
-    - [Groups you could join](#groups)
-    - [Organisations](#organisations)
-    - [Notable people](#notablepeople)
+    - [Conferences, events, communities](#groups)
+    - [People to follow](#people)
 
 - [Tools](#tools)
 
 - [Data](#data)
 
+- [Literature](#literature)
+
 <!-- /MarkdownTOC -->
 
 # Lists
 
-* Jason Trost's list http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
-* Jon Zeolla's TRISS links https://github.com/JonZeolla/Presentations/blob/master/2017-10-20_TRISS/README.md
+## Places to start
+
+* [Jason Trost's list](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+* [Jon Zeolla's TRISS links](https://github.com/JonZeolla/Presentations/blob/master/2017-10-20_TRISS/README.md)
 
 ## Hashtags
 
@@ -35,7 +38,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # People
 
-## Conferences, events, communities:
+## Groups
+
 * [MLSec project](https://www.mlsecproject.org/) [twitter](https://twitter.com/MLSecProject)
 * [BsidesLV GroundTruth track](https://www.bsideslv.org/tracks/#bslv-ground-truth)
 * [CAMLIS](https://www.camlis.org/) [twitter](https://twitter.com/camlisorg)
@@ -57,20 +61,21 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Joshua Saxe](https://twitter.com/joshua_saxe)
 * [Phil Roth](https://twitter.com/mrphilroth)
 
-# Data
-* Google for "security training" repos
-* http://www.dvwa.co.uk/
-* https://drive.google.com/file/d/0B_IN6RzP69b2TkNrYVdOMnQ4LVE/view?usp=sharing
-* https://github.com/konstantinberlin/malware-windows-audit-log-detection
-
-# tools
+# Tools
 
 * Niddel
 * Sqrrl
 * Stratosphere
+* [Expose](https://www.blackhat.com/us-16/arsenal.html#joshua-saxe)
 * IBM Watson?
-* Expose https://www.blackhat.com/us-16/arsenal.html#joshua-saxe
 * Apache Spot?
+
+# Data
+
+* Google for "security training" repos
+* http://www.dvwa.co.uk/
+* https://drive.google.com/file/d/0B_IN6RzP69b2TkNrYVdOMnQ4LVE/view?usp=sharing
+* https://github.com/konstantinberlin/malware-windows-audit-log-detection
 
 # Literature
 
