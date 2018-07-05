@@ -79,7 +79,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Literature
 
-See accompanying file (papers_presentations_etc.md)
+See [MLsec Zotero library](https://www.zotero.org/groups/2202905/mlsec/items) and accompanying file (papers_presentations_etc.md)
 
 
 
