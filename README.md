@@ -60,6 +60,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Sven Krasser, CrowdStrike](https://twitter.com/SvenKrasser) [papers](http://www.skrasser.com/publications/#krasser2015val)
 * [Joshua Saxe](https://twitter.com/joshua_saxe)
 * [Phil Roth](https://twitter.com/mrphilroth)
+* [Gabe Bassett](https://blog.infosecanalytics.com/)
 
 # Tools
 
