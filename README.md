@@ -45,7 +45,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [CAMLIS](https://www.camlis.org/) [twitter](https://twitter.com/camlisorg)
 * [DEFCON AI Village](https://aivillage.org/) [twitter](https://twitter.com/aivillage_dc)
 * [Flocon](https://www.cert.org/flocon/)
-* [AISec](http://www-bcf.usc.edu/~aruneshs/AISec2015/Program.html)
+* [AISec](http://aisec2018.icsi.berkeley.edu/aisec2018/)
 
 ## People
 
